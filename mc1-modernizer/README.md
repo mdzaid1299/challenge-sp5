@@ -1,4 +1,4 @@
-## Column Drop Pattern 
+## Modernizr
 
 ## Context
 
