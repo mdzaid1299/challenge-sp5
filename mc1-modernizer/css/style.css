@@ -1,1 +1,11 @@
-/* Add custom styles here */
+
+#logo{
+    margin-left: 300px;
+    margin-right: -200px;
+}
+
+@media screen and (max-width: 480px ){
+   #git{
+    margin-left: -300px;
+   }   
+}
